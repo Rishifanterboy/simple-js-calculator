@@ -6,7 +6,7 @@ A clean and minimal calculator built using HTML, CSS, and Vanilla JavaScript. Th
 
 ## 🚀 Features
 
-- Basic arithmetic: ➕ ➖ ✖️ ➗ %
+- Basic arithmetic: + - * %
 - Keyboard support (numbers, operators, Enter, Backspace, ESC)
 - Clear (`AC`) and backspace (`C`) buttons
 - Responsive and elegant UI
