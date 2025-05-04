@@ -6,7 +6,7 @@ A clean and minimal calculator built using HTML, CSS, and Vanilla JavaScript. Th
 
 ## 🚀 Features
 
-- Basic arithmetic: ➕ ➖ ✖️ ➗ %
+- Basic arithmetic: + - * %
 - Keyboard support (numbers, operators, Enter, Backspace, ESC)
 - Clear (`AC`) and backspace (`C`) buttons
 - Responsive and elegant UI
@@ -17,13 +17,4 @@ A clean and minimal calculator built using HTML, CSS, and Vanilla JavaScript. Th
 
 - HTML5
 - CSS3
-- JavaScript 
-
----
-
-## 📂 How to Use
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/simple-js-calculator.git
-   cd simple-js-calculator
+- JavaScript
