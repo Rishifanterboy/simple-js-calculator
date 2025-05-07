@@ -18,3 +18,11 @@ A clean and minimal calculator built using HTML, CSS, and Vanilla JavaScript. Th
 - HTML5
 - CSS3
 - JavaScript
+
+```
+📂 calculator-app/
+├── index.html          # HTML structure
+├── style.css           # CSS styles
+├── calculator.js       # JavaScript logic
+└── README.md           # (Optional) Project description
+```
